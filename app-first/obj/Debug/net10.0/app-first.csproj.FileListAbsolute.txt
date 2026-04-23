@@ -1,0 +1,14 @@
+C:\xampp\htdocs\csharp-fundamentals\app-first\bin\Debug\net10.0\app-first.exe
+C:\xampp\htdocs\csharp-fundamentals\app-first\bin\Debug\net10.0\app-first.deps.json
+C:\xampp\htdocs\csharp-fundamentals\app-first\bin\Debug\net10.0\app-first.runtimeconfig.json
+C:\xampp\htdocs\csharp-fundamentals\app-first\bin\Debug\net10.0\app-first.dll
+C:\xampp\htdocs\csharp-fundamentals\app-first\bin\Debug\net10.0\app-first.pdb
+C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\app-first.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\app-first.AssemblyInfoInputs.cache
+C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\app-first.AssemblyInfo.cs
+C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\app-first.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\app-first.dll
+C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\refint\app-first.dll
+C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\app-first.pdb
+C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\app-first.genruntimeconfig.cache
+C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\ref\app-first.dll
