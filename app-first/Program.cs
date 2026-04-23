@@ -4,9 +4,9 @@ void exibirMenu()
 {
     Console.WriteLine("--------Boas Vindas--------");
     Console.WriteLine("1. Para registrar uma banda");
-    Console.WriteLine("1. Para mostrar todas as bandas");
-    Console.WriteLine("1. Para avaliar uma banda");
-    Console.WriteLine("1. Para mostrar a média uma banda");
+    Console.WriteLine("2. Para mostrar todas as bandas");
+    Console.WriteLine("3. Para avaliar uma banda");
+    Console.WriteLine("4. Para mostrar a média uma banda");
     Console.WriteLine("5. Para sair");
 
     Console.Write("Digite sua opção: ");
@@ -47,9 +47,10 @@ void mostrarBandas()
     Console.Clear();
     Console.WriteLine("---------------------------------------");
     Console.WriteLine("Exibindo todas as bandas registradas: \n");
-    for(int i=0; i < listaBandas.Count; i++)
+
+    foreach (string banda in listaBandas)
     {
-        Console.WriteLine($"Banda: {listaBandas[i]}");
+        Console.WriteLine($"Banda: {banda}");
     }
     Console.Write("\nDigite uma tecla para voltar ao menu principal: ");
     Console.ReadKey();

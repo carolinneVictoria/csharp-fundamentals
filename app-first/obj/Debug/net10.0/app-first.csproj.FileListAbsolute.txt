@@ -12,3 +12,4 @@ C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\refint\app-first
 C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\app-first.pdb
 C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\app-first.genruntimeconfig.cache
 C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\ref\app-first.dll
+C:\xampp\htdocs\csharp-fundamentals\app-first\obj\Debug\net10.0\app-first.sourcelink.json
