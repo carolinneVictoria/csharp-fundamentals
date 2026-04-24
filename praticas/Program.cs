@@ -21,3 +21,10 @@ double milhasConvert = distancia * 1.60934;
 
 Console.WriteLine($"{distancia} milhas são equivalentes a {milhasConvert} quilômetros!");
 
+//Convertendo horas para minutos
+int minutos = 250;
+int horas = minutos / 60;
+int restantesMinutos = minutos % 60;
+
+Console.WriteLine("Tempo: " + horas + " horas e " + restantesMinutos + " minutos");
+
