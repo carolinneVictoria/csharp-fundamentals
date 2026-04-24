@@ -80,3 +80,28 @@ for (int i = 0; i < notas.Count; i++)
     }
 }
 
+// O laço certo
+List<double> notas1 = new List<double>
+{
+    8.5,
+    6.2,
+    9.1,
+    5.8,
+    7.4
+};
+
+double mediaCorte = 7.0;
+
+foreach (var nota in notas1)
+{
+    if (nota < mediaCorte)
+    {
+        Console.WriteLine($"O aluno com a nota {nota} está abaixo da média!");
+    }
+
+    else
+    {
+        Console.WriteLine($"O aluno com a nota {nota} está indo muito bem!");
+    }
+}
+
