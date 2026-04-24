@@ -1,0 +1,15 @@
+C:\xampp\htdocs\csharp-fundamentals\praticas\bin\Debug\net10.0\praticas.exe
+C:\xampp\htdocs\csharp-fundamentals\praticas\bin\Debug\net10.0\praticas.deps.json
+C:\xampp\htdocs\csharp-fundamentals\praticas\bin\Debug\net10.0\praticas.runtimeconfig.json
+C:\xampp\htdocs\csharp-fundamentals\praticas\bin\Debug\net10.0\praticas.dll
+C:\xampp\htdocs\csharp-fundamentals\praticas\bin\Debug\net10.0\praticas.pdb
+C:\xampp\htdocs\csharp-fundamentals\praticas\obj\Debug\net10.0\praticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\csharp-fundamentals\praticas\obj\Debug\net10.0\praticas.AssemblyInfoInputs.cache
+C:\xampp\htdocs\csharp-fundamentals\praticas\obj\Debug\net10.0\praticas.AssemblyInfo.cs
+C:\xampp\htdocs\csharp-fundamentals\praticas\obj\Debug\net10.0\praticas.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\csharp-fundamentals\praticas\obj\Debug\net10.0\praticas.dll
+C:\xampp\htdocs\csharp-fundamentals\praticas\obj\Debug\net10.0\refint\praticas.dll
+C:\xampp\htdocs\csharp-fundamentals\praticas\obj\Debug\net10.0\praticas.pdb
+C:\xampp\htdocs\csharp-fundamentals\praticas\obj\Debug\net10.0\praticas.genruntimeconfig.cache
+C:\xampp\htdocs\csharp-fundamentals\praticas\obj\Debug\net10.0\ref\praticas.dll
+C:\xampp\htdocs\csharp-fundamentals\praticas\obj\Debug\net10.0\praticas.sourcelink.json
