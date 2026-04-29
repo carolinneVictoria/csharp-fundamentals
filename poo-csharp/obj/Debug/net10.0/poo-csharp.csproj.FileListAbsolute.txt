@@ -1,0 +1,15 @@
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\bin\Debug\net10.0\poo-csharp.exe
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\bin\Debug\net10.0\poo-csharp.deps.json
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\bin\Debug\net10.0\poo-csharp.runtimeconfig.json
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\bin\Debug\net10.0\poo-csharp.dll
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\bin\Debug\net10.0\poo-csharp.pdb
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\obj\Debug\net10.0\poo-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\obj\Debug\net10.0\poo-csharp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\obj\Debug\net10.0\poo-csharp.AssemblyInfo.cs
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\obj\Debug\net10.0\poo-csharp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\obj\Debug\net10.0\poo-csharp.sourcelink.json
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\obj\Debug\net10.0\poo-csharp.dll
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\obj\Debug\net10.0\refint\poo-csharp.dll
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\obj\Debug\net10.0\poo-csharp.pdb
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\obj\Debug\net10.0\poo-csharp.genruntimeconfig.cache
+C:\xampp\htdocs\csharp-fundamentals\poo-csharp\obj\Debug\net10.0\ref\poo-csharp.dll
