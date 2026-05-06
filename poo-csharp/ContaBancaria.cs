@@ -2,8 +2,12 @@
 
 public class ContaBancaria
 {
+    public ContaBancaria(string Titular)
+    {
+        Titular = Titular.Trim();
+    }
     public int NumeroIndicador { get; set; }
-    public string Titular { get; set; }
+    public string Titular { get; }
     public float Saldo { get; set; }
     public string Senha { get; set; }
 
