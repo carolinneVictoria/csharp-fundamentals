@@ -1,0 +1,15 @@
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\bin\Debug\net10.0\app-class-pratic.exe
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\bin\Debug\net10.0\app-class-pratic.deps.json
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\bin\Debug\net10.0\app-class-pratic.runtimeconfig.json
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\bin\Debug\net10.0\app-class-pratic.dll
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\bin\Debug\net10.0\app-class-pratic.pdb
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\obj\Debug\net10.0\app-class-pratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\obj\Debug\net10.0\app-class-pratic.AssemblyInfoInputs.cache
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\obj\Debug\net10.0\app-class-pratic.AssemblyInfo.cs
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\obj\Debug\net10.0\app-class-pratic.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\obj\Debug\net10.0\app-class-pratic.sourcelink.json
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\obj\Debug\net10.0\app-class-pratic.dll
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\obj\Debug\net10.0\refint\app-class-pratic.dll
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\obj\Debug\net10.0\app-class-pratic.pdb
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\obj\Debug\net10.0\app-class-pratic.genruntimeconfig.cache
+C:\xampp\htdocs\csharp-fundamentals\app-class-pratic\obj\Debug\net10.0\ref\app-class-pratic.dll
